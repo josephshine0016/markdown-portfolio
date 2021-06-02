@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+These are the links to [My Repository](https://github.com/josephshine0016/markdown-portfolio) and 
+[My Portfolio!](https://josephshine0016.github.io/markdown-portfolio/)
